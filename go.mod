@@ -1,4 +1,4 @@
-module github.com/martinlindhe/imgcat
+module github.com/mkgessen/imgcat
 
 go 1.21.6
 

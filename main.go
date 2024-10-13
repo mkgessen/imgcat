@@ -5,7 +5,7 @@ import (
 	"os"
 
 	"github.com/alecthomas/kingpin/v2"
-	imgcat "github.com/martinlindhe/imgcat/lib"
+	imgcat "github.com/mkgessen/imgcat/lib"
 )
 
 type fileList []string
